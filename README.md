@@ -1,5 +1,5 @@
-Written by josephlee94
-Duplicated, verified, and tested by tylerl762
+Written by josephlee94. 
+Duplicated, verified, and tested by tylerl762.
 
 # Intuitive Deep Learning
 
